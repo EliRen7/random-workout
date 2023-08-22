@@ -1,9 +1,7 @@
-// 1. Import the React and ReactDOM libraries
 import {useState} from 'react'
 import React from 'react';
 import ReactDOM from 'react-dom/client'
 import './index.css';
-// import Run from './assests/running woman.png'
 
 //2. Get a reference to the div with ID root 
 const el = document.getElementById('root')
